@@ -10,7 +10,7 @@ Click==7.0
 colorama==0.4.3
 colorlog==4.1.0
 ConfigArgParse==0.15.1
-cryptography==2.8
+cryptography==3.2
 enum34==1.1.6
 Flask==1.1.1
 gevent==1.5a2
