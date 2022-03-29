@@ -27,7 +27,7 @@ more-itertools==8.1.0
 msgpack-python==0.5.6
 namedlist==1.7
 packaging==20.0
-paramiko==2.7.1
+paramiko==2.10.1
 pluggy==0.13.1
 py==1.8.1
 pycparser==2.19
